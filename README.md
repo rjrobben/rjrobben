@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **LegalGPT**
-- 🌱 I’m currently learning **RL, Web, Transformer**
+- 🌱 I’m currently learning **Reinforcement Learning, Web, LLMChain**
 - ⚡ Fun fact: cats are wonderfully crazy creature.
 
 
