@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **LegalGPT**
 - 🌱 I’m currently learning **Reinforcement Learning, Web, LLMChain**
-- ⚡ Fun fact: cats are wonderfully crazy creature.
+- ⚡ Fun fact: a picture is worth 1000 words.
 
 
 <h3 align="left">Languages and Tools:</h3>
