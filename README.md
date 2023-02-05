@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raymond Yip</h1>
+<h1 align="center">Hi 👋, I'm Ray Yip</h1>
 <h3 align="center">A passionate AI and full stack developer</h3>
 
 <!--
@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **LegalGPT**
+- 🔭 I’m currently working on **GoalMate, Arrival Widget, a reading assistant**
 - 🌱 I’m currently learning **Reinforcement Learning, Web, LLMChain**
 - ⚡ Fun fact: a picture is worth 1000 words.
 
